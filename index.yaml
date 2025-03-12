@@ -3,12 +3,12 @@ entries:
   phishing-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-12T01:47:16.323657744Z"
+    created: "2025-03-12T06:52:08.67868377Z"
     description: A Helm chart for Kubernetes
-    digest: 0cc99bc4376f528329e3de132203a06d6ad229eda9b25e73ca14847e3141418e
+    digest: 267c19bce55145a2640370a1b2e4b5b48ce42645d1f2f550d98c0595529bfe94
     name: phishing-chart
     type: application
     urls:
     - https://amit1020.github.io/helm/phishing-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-12T01:47:16.323207593Z"
+generated: "2025-03-12T06:52:08.67764222Z"
